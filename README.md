@@ -42,11 +42,4 @@ Antes de começar, você precisa ter instalado:
    ```
 4. **Digite um CEP** e veja as informações retornadas.
 
-## 📌 Melhorias Futuras
-- Criar uma interface gráfica para interação com o usuário.
-- Melhorar o tratamento de erros para CEPs inválidos.
-- Implementar uma API interna para consultas via REST.
-
----  
-Este `README.md` agora está alinhado com o seu código! 😊🚀 Se precisar de mais alguma coisa, me avise!
 
